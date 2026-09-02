@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Open In Colab](https://img.shields.io/badge/Open%20in%20Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://drive.google.com/file/d/1UT_xtN8FOKsSl6VYFGNLeq9ZxsXVONFy/view?usp=sharing)&nbsp;&nbsp;
+[![Open In Colab](https://img.shields.io/badge/Open%20in%20Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://drive.google.com/file/d/1E5F7ygxwN10AFcD0Vl14QXAW3an_oQpu/view?usp=sharing)&nbsp;&nbsp;
 [![Get Groq API Key](https://img.shields.io/badge/Get%20Groq%20API%20Key-Free-FF4500?style=for-the-badge&logo=groq&logoColor=white)](https://console.groq.com/keys)
 
 <br/>
