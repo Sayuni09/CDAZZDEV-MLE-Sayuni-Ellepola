@@ -1,4 +1,4 @@
-## Task 1 — Financial AI LLM-Powered Equity Research Assistant
+## Task 1 - Financial AI LLM-Powered Equity Research Assistant
 
 ---
 
@@ -33,6 +33,6 @@ News retrieval returns exactly ten headlines because yfinance returned exactly t
 
 The Groq free tier token limits made serialising sentiment calls necessary. This was a concession to infrastructure constraints rather than an architectural preference and would be the first thing to change in production.
 
-The trailing PE of 37.25 from yfinance is plausible for AAPL but can lag by up to one earnings cycle. A production pipeline would source this from a more timely provider.
+The trailing PE of 37.34 from yfinance is plausible for AAPL but can lag by up to one earnings cycle. A production pipeline would source this from a more timely provider.
 
 Using a smaller open-weight model rather than a frontier model introduces a quality ceiling on the justification text. The model follows the structured output format reliably, but its reasoning depth is shallower than a GPT-4-class model would produce. The architecture isolates this cleanly since swapping to a stronger model only requires updating the model identifier in Cell 2.
