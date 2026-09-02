@@ -1,19 +1,16 @@
-# ============================================================
-# Task     : Task 1 - Financial AI LLM-Powered Equity Research Assistant
-# ============================================================
+============================================================
+### Task     : Task 1 - Financial AI LLM-Powered Equity Research Assistant
+============================================================
 
-# AI Tool Usage
+###  AI Tool Usage
 
-# ============================================================
+============================================================
 
-# AI-ASSISTED: Claude (claude-sonnet-4-6),
-# Prompt: 'I am building an LLM-powered equity research assistant in a Colab
-# notebook. It needs to fetch stock data, compute technical indicators, pull
-# news headlines, run sentiment analysis through an LLM and output a
-# structured report.',
-# Date: 2026-09-01
+AI-ASSISTED: Claude (claude-sonnet-4-6),
+Prompt: 'I am building an LLM-powered equity research assistant in a Colab notebook. It needs to fetch stock data, compute technical indicators, pull news headlines, run sentiment analysis through an LLM and output a structured report.',
+Date: 2026-09-01
 
-# ============================================================
+============================================================
 
 Cell 1 — Package Installation
 
