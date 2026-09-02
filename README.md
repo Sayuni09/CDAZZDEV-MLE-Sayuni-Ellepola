@@ -60,7 +60,7 @@ Running all 15 cells produces:
 
 ### 1 · Open in Colab
 
-[![Open In Colab](https://img.shields.io/badge/Open%20Notebook%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://drive.google.com/file/d/1UT_xtN8FOKsSl6VYFGNLeq9ZxsXVONFy/view?usp=sharing)
+[![Open In Colab](https://img.shields.io/badge/Open%20Notebook%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://drive.google.com/file/d/1E5F7ygxwN10AFcD0Vl14QXAW3an_oQpu/view?usp=sharing)
 
 ### 2 · Add your Groq API key
 
